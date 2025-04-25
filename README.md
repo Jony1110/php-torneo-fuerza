@@ -1,53 +1,59 @@
-# Torneo de la Fuerza - Web Edition 🐉💻
+# Torneo de la Fuerza - Aplicación Web en PHP 🐉🔥
 
-Este proyecto fue desarrollado como parte de la asignatura **Programación Web**, con una temática inspirada en el legendario **Torneo de la Fuerza** del universo Dragon Ball. Se trata de una aplicación web en PHP que permite registrar, visualizar y administrar participantes como si fueran guerreros luchando por la supervivencia de su universo.
+Este proyecto fue desarrollado como parte de la asignatura **Programación Web**, y consiste en una aplicación construida con tecnologías del lado del cliente y del servidor. La temática está inspirada en el legendario **Torneo de la Fuerza** del universo Dragon Ball, en el que los participantes compiten no solo con habilidades, ¡sino también con código!
 
----
-
-## 🚀 Funcionalidades
-
-- Registro de participantes con foto, edad, signo zodiacal y habilidades.
-- Visualización de todos los guerreros registrados en una tabla dinámica.
-- Opción para ver detalles individuales de cada participante.
-- Eliminación de guerreros desde el panel de control.
-- Interfaz visual inspirada en Dragon Ball Super.
+Aquí, los guerreros no lanzan Kamehameha... ¡pero sí envían formularios!
 
 ---
 
-## 🛠 Tecnologías Utilizadas
+## 🎯 Objetivo del Proyecto
 
-- **HTML5** + **CSS3**
-- **JavaScript**
-- **PHP** (sin frameworks)
-- Almacenamiento de datos en archivos `.dat` (sistema de persistencia simple)
+Desarrollar un sistema web funcional que permita registrar, visualizar y administrar participantes, aplicando conocimientos fundamentales de PHP, HTML, CSS y JavaScript, utilizando archivos `.dat` como sistema de almacenamiento. Todo ello, enmarcado en una temática creativa para potenciar el interés y la motivación del desarrollador.
 
 ---
 
-## 📸 Captura de pantalla
+## ⚙️ Funcionalidades Principales
 
-![Torneo de la Fuerza Web](./c9c24240-6f93-469b-bc08-758eded50a74.png)
+- Registro de participantes con nombre, edad, signo zodiacal, habilidades y foto.
+- Visualización general en una tabla dinámica estilo "sala de batalla".
+- Consulta detallada de cada guerrero del torneo.
+- Eliminación de registros desde el panel.
+- Interfaz visual personalizada con temática Dragon Ball Super.
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- **HTML5** y **CSS3**: Estructura y estilos de la interfaz.
+- **JavaScript**: Validaciones y dinámicas del lado del cliente.
+- **PHP**: Procesamiento del lado del servidor.
+- **Archivos .dat**: Almacenamiento de datos simulado (sin base de datos).
 
 ---
 
 ## 🎨 Estilo y Temática
 
-El diseño utiliza fondos de manga, colores vibrantes y tipografías que capturan la energía de Dragon Ball, sumergiendo al usuario en una experiencia visual que simula estar participando en el Torneo de la Fuerza.
+La estética del sistema busca reflejar la energía, emoción y rivalidad del Torneo de la Fuerza. Colores intensos, tipografías dinámicas y fondos visuales transportan al usuario a una experiencia "modo Saiyajin", sin perder claridad ni usabilidad.
+
+> Porque todo desarrollador tiene su **Ultra Instinto**... solo hay que entrenarlo.
 
 ---
 
 ## 👨‍💻 Autor
 
 Desarrollado por **Jonathan Frías**  
-*Con el poder de Goku.*
+Estudiante de la asignatura Programación Web  
+*"Con el poder de Goku y unas cuantas líneas de código."*
 
 ---
 
-## ⚠️ Notas
+## 📌 Notas Finales
 
-- Proyecto con fines educativos.
-- No incluye base de datos, pero simula persistencia mediante archivos.
-- Puede ser extendido fácilmente para usar MySQL o SQLite.
+- Proyecto académico sin fines comerciales.
+- No utiliza bases de datos, pero puede ser extendido fácilmente para usar MySQL o SQLite.
+- Ideal como base para sistemas simples o como inspiración para proyectos temáticos.
 
 ---
 
-¡Prepárate para pelear por el honor de tu universo! 💥🔥
+¡Que empiece el combate digital!  
+**¿Estás listo para salvar tu universo… con PHP?** ⚡💻🔥
